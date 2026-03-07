@@ -1,4 +1,4 @@
-# 📍 RotaSenin: Gezi Rehberi & Sosyal Rota Platformu
+# RotaSenin: Experience-Oriented Social Travel Platform
 
 [TR - Türkçe](#deneyim-odaklı-sosyal-gezi-platformu) | [EN - English](#experience-oriented-social-travel-platform)
 
@@ -8,17 +8,21 @@
 
 > **"Kuru listeleri bırak, gerçekten yaşanmış rotaları keşfet."**
 
-**RotaSenin**, seyahat planlamayı bir yük olmaktan çıkarıp bir keyif haline getirmek için geliştirilen bir gezi ekosistemidir. İnternetteki reklam dolu listeler yerine; gezginlerin, gurmelerin veya yerel halkın bizzat deneyimlediği rotaları parmaklarının ucuna getirir.
+RotaSenin, seyahat planlamayı bir yük olmaktan çıkarıp bir keyif haline getirmek için geliştirilen bir gezi ekosistemidir. İnternetteki reklam içerikli listeler yerine; gezginlerin, gurmelerin veya yerel halkın bizzat deneyimlediği rotaları kullanıcıya sunar.
 
-### 🚀 Neden RotaSenin?
-* **Bilgi Kirliliğine Son:** Onlarca sekme arasında boğulmak yerine güncel ve gerçek deneyimlere odaklanın.
-* **Akıllı Planlama:** Mekanlar arası mesafeyi ve zamanlamayı dert etmeyin; akışı profesyonelce kurgulanmış rotaları kullanın.
-* **Güven ve Şeffaflık:** Sadece fotoğraflara değil, o rotayı gerçekten yürümüş insanların puanlamalarına güvenin.
+### Uygulama Mimarisi ve Sayfa Yapısı
 
-### ✨ Temel Özellikler
-* **Deneyimi Kopyala:** Beğendiğin bir gezginin rotasını tek tıkla kendi profiline klonla ve özelleştir.
-* **Kendi Hikayeni Yaz:** Keşfettiğin gizli durakları ve en verimli yolları kendi rotan olarak paylaş.
-* **Dijital Vitrin:** İçerik üreticileri ve yerel rehberler için seyahat tecrübelerini sunabilecekleri profesyonel bir alan.
+1. **Keşfet (Ana Akış):** Bir seyahat dergisi estetiğinde sunulan, hikayesi olan öne çıkan rotalar ve özel kategoriler.
+2. **Şehir Liderleri (Leaderboard):** Şehirlerin en çok tercih edilen, en yüksek puanlı ve en çok kopyalanan rota liderlik tabloları. Şehrin en iyi rehberlerini ve en verimli gezi paketlerini keşfetme imkanı.
+3. **İnteraktif Harita (Deneyim Atölyesi):** Harita üzerinde durakları işaretleyerek, zamanlaması ve akışı optimize edilmiş kişisel rotalar oluşturma alanı.
+4. **Rota Detay (Deneyim Sayfası):** Rotanın her durağına özel tüyolar, gerçek fotoğraflar ve tek tıkla Deneyimi Kopyala (Clone) özelliği.
+5. **Profil ve Vitrin:** Yayınlanan rotalar, kopyalanan koleksiyonlar ve kazanılan Yerel Rehber rozetlerinin sergilendiği dijital vitrin.
+6. **Sosyal Akış:** Takip edilen kullanıcıların yeni rotaları ve deneyim paylaşımlarının yer aldığı dinamik akış.
+
+### Öne Çıkan Sosyal Özellikler
+* **Deneyimi Kopyala ve Özelleştir:** Beğenilen bir rotayı saniyeler içinde kişisel profile klonlama ve düzenleme imkanı.
+* **Rota Odaklı Puanlama:** Sadece mekanların değil; rotanın bütünlüğü, zaman yönetimi ve verimliliğinin puanlanması.
+* **Şehir Kralları:** Her şehir için en aktif ve en güvenilir içerik üreticilerinin öne çıkarıldığı dinamik liderlik sistemi.
 
 ---
 
@@ -26,24 +30,8 @@
 
 > **"Ditch the dry lists, discover routes that have actually been lived."**
 
-**RotaSenin** is a travel ecosystem designed to simplify discovery. Instead of generic "Top 10" lists, it focuses on authentic, ready-made routes crafted by real travelers.
+RotaSenin is a travel ecosystem designed to transform travel planning into a joyful experience. Instead of ad-heavy generic lists, it provides users with ready-made routes experienced by travelers, foodies, and locals.
 
----
+### App Architecture and Screen Structure
 
-## 🛠 Teknik Bakış / Technical Stack
-Proje, sürdürülebilirlik ve yüksek performans odaklı modern teknolojilerle geliştirilmektedir:
--   **Framework:** Flutter
--   **Architecture:** Clean Architecture
--   **Design System:** -   Material 3 with Custom **Dim-Mode** (Loş Mavi) Support.
-    -   Typography: **Lora** (Editorial Headings) & **Inter** (Readable Body).
--   **Data Focus:** Geo-data performance & Route optimization.
-
-## 📅 Yol Haritası / Roadmap
-- [ ] **MVP:** Harita üzerinde temel rota çizimi ve kaydetme.
-- [ ] **Social:** Kullanıcı takibi, beğeni ve rota kopyalama (cloning).
-- [ ] **Discovery:** Kategori bazlı gelişmiş rota keşfi.
-- [ ] **Monetization:** İçerik üreticileri için profesyonel araçlar.
-
----
-
-> **Geliştirici Notu / Developer Note:** Bu projeyi seyahat planlamayı bir yük olmaktan çıkarıp bir keyif haline getirmek için tasarladım. / I designed this project to turn travel planning from a burden into a joy.
+1. **Explore (Main Feed
