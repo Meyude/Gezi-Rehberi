@@ -1,0 +1,159 @@
+{
+  "brand": {
+    "name": "RotaSenin",
+    "tagline": "Rotanı kendin yaz"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "retry": "Tekrar dene",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "confirm": "Onayla",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "share": "Paylaş",
+    "close": "Kapat",
+    "back": "Geri",
+    "next": "İleri",
+    "done": "Tamam",
+    "search": "Ara",
+    "filter": "Filtrele",
+    "seeAll": "Tümünü gör",
+    "noResult": "Sonuç bulunamadı",
+    "or": "veya"
+  },
+  "splash": {
+    "headline": "Kuru listeleri bırak, yaşamaya başla",
+    "subtext": "Dünyayı kendi ritminle keşfet. Gerçekten yaşanmış rotalar, dürüst tavsiyeler.",
+    "getStarted": "Başlayalım",
+    "alreadyMember": "Zaten üye misin?",
+    "logIn": "Giriş yap"
+  },
+  "onboarding": {
+    "skip": "Atla",
+    "step1": {
+      "title": "Rotanı Keşfet",
+      "description": "Binlerce seyahat rotası arasından sana en uygun olanı bul."
+    },
+    "step2": {
+      "title": "Rotanı Planla",
+      "description": "Adım adım duraklarını ekle, bütçeni belirle, yola çık."
+    },
+    "step3": {
+      "title": "Topluluğa Katıl",
+      "description": "Rotanı paylaş, diğer gezginlerden ilham al."
+    },
+    "travelStyle": "Nasıl bir gezgin olduğunu söyle",
+    "styleAdventurer": "Maceracı",
+    "styleRelaxed": "Dinlendirici",
+    "styleCultural": "Kültürel",
+    "styleGastronomic": "Gastronomi",
+    "styleSolo": "Yalnız gezgin",
+    "styleFamily": "Aile"
+  },
+  "auth": {
+    "login": {
+      "title": "Tekrar hoş geldin",
+      "email": "E-posta",
+      "password": "Şifre",
+      "forgotPassword": "Şifremi unuttum",
+      "loginButton": "Giriş yap",
+      "noAccount": "Hesabın yok mu?",
+      "signUp": "Kayıt ol"
+    },
+    "register": {
+      "title": "Hesap oluştur",
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "password": "Şifre",
+      "confirmPassword": "Şifreyi onayla",
+      "registerButton": "Kayıt ol",
+      "hasAccount": "Zaten hesabın var mı?",
+      "logIn": "Giriş yap",
+      "termsPrefix": "Devam ederek ",
+      "terms": "Kullanım Koşulları",
+      "termsSuffix": "nı kabul etmiş olursun."
+    }
+  },
+  "discover": {
+    "title": "Keşfet",
+    "searchHint": "Rota, şehir veya ülke ara...",
+    "featured": "Öne Çıkan Rotalar",
+    "nearYou": "Yakınındaki Rotalar",
+    "popular": "Popüler",
+    "recent": "Son Eklenenler",
+    "cardAegeanTitle": "Ege'nin Gizli Koyları",
+    "cardAegeanDescription": "Masmavi suların ve zeytin ağaçlarının arasında unutulmaz bir rota. Datça'nın bakir doğasından Bozburun'un dinginliğine...",
+    "cardCappadociaTitle": "Kapadokya'da İki Gün",
+    "cardCappadociaDescription": "Peri bacaları, yeraltı şehirleri ve gün doğumunda balon turu.",
+    "cardIstanbulTitle": "İstanbul'un Bilinmeyenleri",
+    "cardIstanbulDescription": "Turistlerin uğramadığı sokaklar, tarihi hamamlar ve semtlere özgü lezzetler."
+  },
+  "route": {
+    "detail": {
+      "overview": "Genel Bakış",
+      "stops": "Duraklar",
+      "reviews": "Değerlendirmeler",
+      "map": "Harita",
+      "duration": "Süre",
+      "distance": "Mesafe",
+      "difficulty": "Zorluk",
+      "difficulty_easy": "Kolay",
+      "difficulty_medium": "Orta",
+      "difficulty_hard": "Zor",
+      "startRoute": "Rotayı Başlat",
+      "saveRoute": "Rotayı Kaydet",
+      "days": "gün",
+      "km": "km",
+      "minutes": "dk"
+    },
+    "editor": {
+      "title": "Rota Oluştur",
+      "addStop": "Durak Ekle",
+      "stopName": "Durak adı",
+      "stopNote": "Not ekle",
+      "publish": "Yayınla",
+      "saveDraft": "Taslak Kaydet",
+      "coverPhoto": "Kapak Fotoğrafı",
+      "routeTitle": "Rota Başlığı",
+      "routeDescription": "Rota Açıklaması"
+    }
+  },
+  "leaderboard": {
+    "title": "Liderlik Tablosu",
+    "rank": "Sıra",
+    "traveler": "Gezgin",
+    "points": "Puan",
+    "routes": "Rota",
+    "thisWeek": "Bu Hafta",
+    "thisMonth": "Bu Ay",
+    "allTime": "Tüm Zamanlar",
+    "yourRank": "Senin Sıran"
+  },
+  "profile": {
+    "title": "Profil",
+    "routes": "Rotalar",
+    "followers": "Takipçi",
+    "following": "Takip",
+    "editProfile": "Profili Düzenle",
+    "settings": "Ayarlar",
+    "myRoutes": "Rotalarım",
+    "savedRoutes": "Kaydedilenler",
+    "bio": "Hakkımda",
+    "location": "Konum",
+    "logout": "Çıkış Yap"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "language": "Dil",
+    "theme": "Tema",
+    "theme_light": "Aydınlık",
+    "theme_dark": "Karanlık",
+    "theme_system": "Sistem",
+    "notifications": "Bildirimler",
+    "privacy": "Gizlilik",
+    "about": "Hakkında",
+    "version": "Versiyon"
+  }
+}

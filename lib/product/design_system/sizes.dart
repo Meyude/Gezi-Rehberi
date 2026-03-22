@@ -1,5 +1,5 @@
-final class AppSizes {
-  AppSizes._();
+final class LayoutSizes {
+  LayoutSizes._();
 
   static const double spacingXs = 8;
   static const double spacingS = 10;

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-final class AppTextStyles {
-  AppTextStyles._();
+final class TextStyles {
+  TextStyles._();
 
   static TextStyle get displayLarge => GoogleFonts.lora(
     fontSize: 57,
@@ -39,11 +39,6 @@ final class AppTextStyles {
     fontWeight: FontWeight.w500,
     letterSpacing: 0.1,
   );
-
-  // ---------------------------------------------------------------------------
-  // GÖVDE VE ETİKETLER (BODY, LABEL) -> INTER FONTU (Sans-Serif)
-  // Uzun rota açıklamalarını, adresleri ve butonları okumayı inanılmaz kolaylaştıran kısım.
-  // ---------------------------------------------------------------------------
 
   static TextStyle get bodyLarge => GoogleFonts.inter(
     fontSize: 16,

@@ -1,0 +1,159 @@
+{
+  "brand": {
+    "name": "RotaSenin",
+    "tagline": "Write your own route"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "share": "Share",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "done": "Done",
+    "search": "Search",
+    "filter": "Filter",
+    "seeAll": "See all",
+    "noResult": "No results found",
+    "or": "or"
+  },
+  "splash": {
+    "headline": "Leave dry lists behind, start living",
+    "subtext": "Discover the world at your own pace. Real routes, honest advice.",
+    "getStarted": "Get Started",
+    "alreadyMember": "Already a member?",
+    "logIn": "Log in"
+  },
+  "onboarding": {
+    "skip": "Skip",
+    "step1": {
+      "title": "Discover Routes",
+      "description": "Find the perfect route among thousands of travel itineraries."
+    },
+    "step2": {
+      "title": "Plan Your Route",
+      "description": "Add stops step by step, set your budget, and hit the road."
+    },
+    "step3": {
+      "title": "Join the Community",
+      "description": "Share your route and get inspired by fellow travelers."
+    },
+    "travelStyle": "Tell us what kind of traveler you are",
+    "styleAdventurer": "Adventurer",
+    "styleRelaxed": "Relaxed",
+    "styleCultural": "Cultural",
+    "styleGastronomic": "Gastronomic",
+    "styleSolo": "Solo traveler",
+    "styleFamily": "Family"
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome back",
+      "email": "Email",
+      "password": "Password",
+      "forgotPassword": "Forgot password",
+      "loginButton": "Log in",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up"
+    },
+    "register": {
+      "title": "Create an account",
+      "name": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "registerButton": "Sign up",
+      "hasAccount": "Already have an account?",
+      "logIn": "Log in",
+      "termsPrefix": "By continuing you agree to our ",
+      "terms": "Terms of Service",
+      "termsSuffix": "."
+    }
+  },
+  "discover": {
+    "title": "Discover",
+    "searchHint": "Search routes, cities or countries...",
+    "featured": "Featured Routes",
+    "nearYou": "Routes Near You",
+    "popular": "Popular",
+    "recent": "Recently Added",
+    "cardAegeanTitle": "Hidden Coves of the Aegean",
+    "cardAegeanDescription": "An unforgettable route among turquoise waters and olive trees. From Datca's unspoiled nature to the calm of Bozburun...",
+    "cardCappadociaTitle": "Two Days in Cappadocia",
+    "cardCappadociaDescription": "Fairy chimneys, underground cities and a hot air balloon ride at sunrise.",
+    "cardIstanbulTitle": "Unknown Istanbul",
+    "cardIstanbulDescription": "Streets tourists never visit, historic hamams and neighborhood flavors."
+  },
+  "route": {
+    "detail": {
+      "overview": "Overview",
+      "stops": "Stops",
+      "reviews": "Reviews",
+      "map": "Map",
+      "duration": "Duration",
+      "distance": "Distance",
+      "difficulty": "Difficulty",
+      "difficulty_easy": "Easy",
+      "difficulty_medium": "Moderate",
+      "difficulty_hard": "Hard",
+      "startRoute": "Start Route",
+      "saveRoute": "Save Route",
+      "days": "days",
+      "km": "km",
+      "minutes": "min"
+    },
+    "editor": {
+      "title": "Create Route",
+      "addStop": "Add Stop",
+      "stopName": "Stop name",
+      "stopNote": "Add a note",
+      "publish": "Publish",
+      "saveDraft": "Save Draft",
+      "coverPhoto": "Cover Photo",
+      "routeTitle": "Route Title",
+      "routeDescription": "Route Description"
+    }
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "rank": "Rank",
+    "traveler": "Traveler",
+    "points": "Points",
+    "routes": "Routes",
+    "thisWeek": "This Week",
+    "thisMonth": "This Month",
+    "allTime": "All Time",
+    "yourRank": "Your Rank"
+  },
+  "profile": {
+    "title": "Profile",
+    "routes": "Routes",
+    "followers": "Followers",
+    "following": "Following",
+    "editProfile": "Edit Profile",
+    "settings": "Settings",
+    "myRoutes": "My Routes",
+    "savedRoutes": "Saved",
+    "bio": "About me",
+    "location": "Location",
+    "logout": "Log out"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "theme_light": "Light",
+    "theme_dark": "Dark",
+    "theme_system": "System",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "about": "About",
+    "version": "Version"
+  }
+}
