@@ -10,7 +10,7 @@ class Environment {
   static void setFlavor(Flavor flavor) {
     _flavor = flavor;
   }
-
+  // TODO: Bu urller geçici şimdilik örnek ortam değerleri ile devam ediyorum sonra gerçek servis adresleri ile güncelleyeceğiz
   static String get baseUrl {
     switch (_flavor) {
       case Flavor.dev:
